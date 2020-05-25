@@ -1,6 +1,10 @@
 The program reads frames from webcam, traces object chosen as 'pen'.
 The centroid of the 'pen' is traced in another window with white background, giving the effect of a drawing board.
 
+FOr example, below snip from video:
+
+![image](files/Users/jzhang/Desktop/Isolated.png)
+
 Dependencies:
 Numpy
 Opencv
