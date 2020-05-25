@@ -3,7 +3,7 @@ The centroid of the 'pen' is traced in another window with white background, giv
 
 FOr example, below snip from video:
 
-![image](files/Users/jzhang/Desktop/Isolated.png)
+![image](snip.png)
 
 Dependencies:
 Numpy
